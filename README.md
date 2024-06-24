@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am currently working at Actual Group<br><br>- 👨‍💻 All my projects are available at https://www.portafolio.wolaweb.com<br><br>- 💬 Ask me about Angular, Bootstrap, and Ruby on Rails<br><br>- 📫 How to reach me: rscedgar@gmail.com<br><br>- 📄 Learn about my experiences https://www.linkedin.com/in/rscedgar/<br><br>- ⚡ Fun fact: My role as a programmer was crucial in bringing the creative vision of the team to life. Currently, I am still working at Actual Group, where I continue to contribute with innovative technological solutions.
+- 🔭 I am currently working at Actual Group<br><br>- 👨‍💻 All my projects are available at https://www.portafolio.wolaweb.com<br><br>- 💬 Ask me about Angular, Bootstrap, and Ruby on Rails<br><br>- 📫 How to reach me: rscedgar@gmail.com<br><br>- ⚡ Fun fact: My role as a programmer was crucial in bringing the creative vision of the team to life. Currently, I am still working at Actual Group, where I continue to contribute with innovative technological solutions.
 
 
 ## 🌐 Socials:
